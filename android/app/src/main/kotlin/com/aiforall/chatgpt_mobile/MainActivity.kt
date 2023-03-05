@@ -1,0 +1,6 @@
+package com.aiforall.chatgpt_mobile
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
