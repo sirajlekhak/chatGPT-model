@@ -1,6 +1,7 @@
 # chatgpt_mobile
 
-A new Flutter project.
+A chatGPT app using Flutter
+you can just Create your own API and paste it in API section
 
 ## Getting Started
 
